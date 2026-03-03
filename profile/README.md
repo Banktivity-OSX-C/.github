@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/350586/m/banktivity-screenshot.png?v=1674567817" alt="Banktivity screenshot"/>
+  <img src="https://www.iggsoftware.com/blog/wp-content/uploads/2018/09/reports-1024x651.png" alt="Banktivity screenshot"/>
 </p>
 
 ---
@@ -37,12 +37,6 @@ Goal tracking monitors progress toward financial objectives like saving for purc
 - <a href="#">Transaction</a> categorization organizing expenses automatically
 - Data <a href="#">security</a> maintaining encrypted storage protection
 - <a href="#">Spending</a> analysis revealing patterns reduction opportunities
-
----
-
-<p align="center">
-  <img src="https://www.iggsoftware.com/blog/wp-content/uploads/2018/09/reports-1024x651.png" alt="Banktivity screenshot"/>
-</p>
 
 ---
 
